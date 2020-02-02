@@ -1,7 +1,8 @@
 # Flowtos #
 
 Flowtos is a photo gallery app made with react. I developed it after I closed my instagram account.
-It aims to be simple and content focused.
+It aims to be simple and content focused. 
+**Flowtos demo  ▶️ https://www.giovanetti.fr/flowtos/**
 
 ## Features ##
 
